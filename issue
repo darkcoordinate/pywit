@@ -1,0 +1,9 @@
+  I am facing problem installing that in my computer, 
+ File "joke.py", line 2, in <module>
+    from wit import Wit
+ImportError: No module named 'wit'
+
+but wit files are installed in 
+
+/usr/local/lib/python3.4/dist-packages/wit
+
